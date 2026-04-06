@@ -52,11 +52,7 @@ github_repo/
 │   ├── sample_preprocessed_Level5.csv   # 10-row sample — family-level features
 │   ├── sample_preprocessed_Level6.csv   # 10-row sample — genus-level features
 │   └── sample_preprocessed_Level7.csv   # 10-row sample — species-level features
-│
-└── reports/
-    ├── generate_reports.py        # Script to regenerate both Word documents
-    ├── technical_report.docx      # Scientific report (methods, results, discussion)
-    └── summary_report.docx        # Plain-language summary with figures and tables
+
 ```
 
 ---
