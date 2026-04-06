@@ -49,9 +49,9 @@ github_repo/
 │   └── 03_run_pipeline.py         # Full RF training + evaluation pipeline
 │
 ├── data/
-│   ├── sample_preprocessed_Level5.csv   # 10-row sample — family-level features
-│   ├── sample_preprocessed_Level6.csv   # 10-row sample — genus-level features
-│   └── sample_preprocessed_Level7.csv   # 10-row sample — species-level features
+    ├── sample_preprocessed_Level5.csv   # 10-row sample — family-level features
+    ├── sample_preprocessed_Level6.csv   # 10-row sample — genus-level features
+    └── sample_preprocessed_Level7.csv   # 10-row sample — species-level features
 
 ```
 
