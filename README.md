@@ -1,4 +1,4 @@
-# Rumen Microbiome-Based ADG Prediction in Beef Cattle
+# Microbiome-Based ADG Prediction Model 
 
 A Random Forest regression pipeline that predicts **Average Daily Gain (ADG)** in beef cattle from rumen microbiome community profiles at three taxonomic levels (family, genus, species), with explicit evaluation of cross-farm generalisability through farm-stratified cross-validation.
 
