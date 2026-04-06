@@ -180,20 +180,7 @@ Python 3.9+ required.
 
 ---
 
-## Reports
 
-Two reports in `reports/` summarise the project:
-
-- **`technical_report.docx`** — Full scientific write-up: methods, results with tables, discussion of dataset shift, conclusions. Written for a research audience.
-- **`summary_report.docx`** — Plain-language summary with figures, comparison charts, and per-farm breakdowns. Written for a broader audience.
-
-To regenerate both documents (requires `python-docx`, `matplotlib`, `seaborn`, `numpy`):
-```bash
-cd reports/
-python generate_reports.py
-```
-
----
 
 ## Pseudocode
 
